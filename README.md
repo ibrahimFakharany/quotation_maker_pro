@@ -1,4 +1,4 @@
-# quotation_maker_pro
+# Quotation maker
 
 App for searching for products, clients, and terms and conditions that returned from API and
 
